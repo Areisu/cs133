@@ -1,7 +1,5 @@
-"","Sex (SEX)","","",""
 "","Male","","Female",""
-"","Employment status recode (ESR)","","Employment status recode (ESR)",""
-"Recoded field of degree - first entry","Civilian employed, at work","Unemployed","Civilian employed, at work","Unemployed"
+"Major","Civilian employed, at work","Unemployed","Civilian employed, at work","Unemployed"
 "General Agriculture","91985","25388","61471","16782"
 "Agriculture Production And Management","100092","35465","55683","27247"
 "Agricultural Economics","124610","25299","76169","31604"
