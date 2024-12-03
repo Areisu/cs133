@@ -1,7 +1,5 @@
-"","Sex (SEX)","","","","","",""
 "","","Male","","","Female","",""
-"","","Employment status recode (ESR)","","","Employment status recode (ESR)","",""
-"Recoded field of degree - first entry","Total","Total Employment status recode (ESR)","Civilian employed, at work","Unemployed","Total Employment status recode (ESR)","Civilian employed, at work","Unemployed"
+"Major","Total","Total Male Employment","Civilian employed, at work","Unemployed","Total Female Employment","Civilian employed, at work","Unemployed"
 " -> Total","59476982","29400509","28456986","943523","30076473","29137139","939334"
 "General Agriculture","126806","92562","90130","2432","34244","33352","892"
 "Agriculture Production And Management","121445","90358","88869","1489","31087","30387","700"
